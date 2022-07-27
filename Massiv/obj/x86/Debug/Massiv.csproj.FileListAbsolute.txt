@@ -1,0 +1,6 @@
+/home/lionforder/Projects/Massiv/Massiv/bin/Debug/Massiv.exe
+/home/lionforder/Projects/Massiv/Massiv/bin/Debug/Massiv.pdb
+/home/lionforder/Projects/Massiv/Massiv/obj/x86/Debug/Massiv.csproj.AssemblyReference.cache
+/home/lionforder/Projects/Massiv/Massiv/obj/x86/Debug/Massiv.csproj.CoreCompileInputs.cache
+/home/lionforder/Projects/Massiv/Massiv/obj/x86/Debug/Massiv.exe
+/home/lionforder/Projects/Massiv/Massiv/obj/x86/Debug/Massiv.pdb
